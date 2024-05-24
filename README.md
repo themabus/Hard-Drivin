@@ -12,6 +12,9 @@ since the original one was missing<br>
 <br>
 Notice a bit lacking hidden surface removal.<br>
 <br>
+Data is not included, so you have to place .exe<br>
+in the directory of original DOS game<br>
+<br>
 Since Hard Drivin' II runs on the same engine,<br>
 albeit with some fixes & adjustments,<br>
 this also works with tracks from HD2 & editor<br>
